@@ -5,15 +5,15 @@
 
 | Validator  | Genesis validator | Post genesis validator | Peer | Points |
 |------------|:-----------------:|:----------------------:|:----:|:------:|
-| Greg     |         +         |                        |  +   |   30   |
-| Nemus  |         +         |                        |      |   25   |
-| Lukas    |         +         |                        |  +   |   30   |
-| Pawl        |         +         |                        |      |   25   |
-| Vlad |                   |           +            |      |   20   |
-| Taras     |                   |           +            |      |   20   |
-| Brus     |                   |           +            |      |   20   |
-| Bumi     |                   |           +            |      |   20   |
-| Daga     |                   |           +            |      |   20   |
+| Greg     |              |                        |  +   |      |
+| Nemus  |                  |                        |      |      |
+| Lukas    |                  |                        |  +   |      |
+| Pawl        |                  |                        |      |      |
+| Vlad |                   |                       |      |      |
+| Taras     |                   |                       |      |      |
+| Brus     |                   |                       |      |      |
+| Bumi     |                   |                       |      |      |
+| Daga     |                   |                       |      |      |
 
 ### Phase 2
 
