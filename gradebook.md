@@ -5,9 +5,9 @@
 
 | Validator  | Genesis validator | Post genesis validator | Peer | Points |
 |------------|:-----------------:|:----------------------:|:----:|:------:|
-| Greg     |              |                        |  +   |      |
+| Greg     |              |                        |     |      |
 | Nemus  |                  |                        |      |      |
-| Lukas    |                  |                        |  +   |      |
+| Lukas    |                  |                        |     |      |
 | Pawl        |                  |                        |      |      |
 | Vlad |                   |                       |      |      |
 | Taras     |                   |                       |      |      |
@@ -17,14 +17,18 @@
 
 ### Phase 2
 
-| Validator  | Vote | Tweet | Points |
-|------------|:----:|:-----:|:------:|
-| ARCTIC     |  +   |       |   25   |
-| mms.team   |      |       |   0    |
-| hilonom    |  +   |   +   |   30   |
-| YAN        |  +   |   +   |   30   |
-| Atlas.Node |  +   |       |   25   |
-| voyage     |      |       |   0    |
+| Validator  | Vote | Tweet | GitHub | Points |
+|------------|:-----------------:|:----------------------:|:----:|:------:|
+| Greg     |              |                        |     |      |
+| Nemus  |                  |                        |      |      |
+| Lukas    |                  |                        |     |      |
+| Pawl        |                  |                        |      |      |
+| Vlad |                   |                       |      |      |
+| Taras     |                   |                       |      |      |
+| Brus     |                   |                       |      |      |
+| Bumi     |                   |                       |      |      |
+| Daga     |                   |                       |      |      |
+
 
 ### Phase 3
 
