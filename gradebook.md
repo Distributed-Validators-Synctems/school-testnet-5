@@ -1,15 +1,19 @@
 # Gradebook
 
+
 ### Phase 1
 
 | Validator  | Genesis validator | Post genesis validator | Peer | Points |
 |------------|:-----------------:|:----------------------:|:----:|:------:|
-| ARCTIC     |         +         |                        |  +   |   30   |
-| mms.team   |         +         |                        |      |   25   |
-| hilonom    |         +         |                        |  +   |   30   |
-| YAN        |         +         |                        |      |   25   |
-| Atlas.Node |                   |           +            |      |   20   |
-| voyage     |                   |           +            |      |   20   |
+| Greg     |         +         |                        |  +   |   30   |
+| Nemus  |         +         |                        |      |   25   |
+| Lukas    |         +         |                        |  +   |   30   |
+| Pawl        |         +         |                        |      |   25   |
+| Vlad |                   |           +            |      |   20   |
+| Taras     |                   |           +            |      |   20   |
+| Brus     |                   |           +            |      |   20   |
+| Bumi     |                   |           +            |      |   20   |
+| Daga     |                   |           +            |      |   20   |
 
 ### Phase 2
 
