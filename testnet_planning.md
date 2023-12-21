@@ -15,11 +15,11 @@ Everything is subject to change and as close as possible to the realities of tes
 
 ## **Phase - 1: Start chain (max 30 points)**
 
-- GenTx Validator Address Submission : ` 17:00 UTC`. Up to `100% of the flow` will be accepted.
+- GenTx Validator Address Submission : `xxx 17:00 UTC`. Up to `100% of the flow` will be accepted.
 
  `25 Points = 25 000 atom for successful wallet submissions.`
 
-- Network start time:  ` UTC`
+- Network start time:  ` xxx UTC`
 
 `20 Points = 20 000 atom for set up post genesis validators.`
 
@@ -31,7 +31,7 @@ Everything is subject to change and as close as possible to the realities of tes
 
 ## **Phase - 2: Governance (max 30 points)**
 
-Lead validator team will create a governance proposal on `21.09.2023 13:00 UTC`, to update the transfer parameter. You will need to study the proposals, find the correct one and vote.
+Lead validator team will create a governance proposal on ` xxx UTC`, to update the transfer parameter. You will need to study the proposals, find the correct one and vote.
 
 In order to find correct proposal you will need to run query command using your network client binary (`gaiad` in our case). Please issue following command `gaiad query gov proposals`, and find proposal with `title:` ”Vote for me friend”.
 
@@ -77,7 +77,7 @@ In order to find correct proposal you will need to run query command using your 
 <aside>
 📌 Participants need to raise a PR with the details onto the `transactions` directory of this repo
 
-- Time: `25.09.2023 15:00 UTC - 28.09.2023 15:00 UTC`
+- Time: `xxx UTC - xxx UTC`
 (Only the txs in this time period are considered to be valid)
 </aside>
 
