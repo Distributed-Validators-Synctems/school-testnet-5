@@ -1,6 +1,6 @@
 {
   "genesis_time": "2023-09-18T15:45:00Z",
-  "chain_id": "school-testnet-4",
+  "chain_id": "school-testnet-5",
   "initial_height": "1",
   "consensus_params": {
     "block": {
