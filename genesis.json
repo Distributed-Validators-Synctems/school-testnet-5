@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2024-01-30T18:30:00Z",
+  "genesis_time": "2024-01-30T18:15:00Z",
   "chain_id": "school-testnet-5",
   "initial_height": "1",
   "consensus_params": {
